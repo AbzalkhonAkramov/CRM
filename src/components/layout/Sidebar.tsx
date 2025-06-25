@@ -62,8 +62,8 @@ export function Sidebar() {
         isOpen ? "translate-x-0" : "-translate-x-full"
       )}>
         <div className="p-4 border-b border-slate-700">
-          <h1 className="text-xl font-bold">TechNova</h1>
-          <p className="text-xs text-slate-400">Clothing CRM</p>
+          <h1 className="text-xl font-bold">TechNova Sollutions</h1>
+          <p className="text-xs text-slate-400">CRM</p>
         </div>
         
         <nav className="mt-6">
