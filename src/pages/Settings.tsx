@@ -73,7 +73,7 @@ export default function Settings() {
   const companyForm = useForm<z.infer<typeof companyFormSchema>>({
     resolver: zodResolver(companyFormSchema),
     defaultValues: {
-      companyName: "Attire Wholesale",
+      companyName: "TechNova Sollutions",
       address: "123 Fashion Street, CA 90210",
       phone: "(555) 123-4567",
       taxId: "12-3456789",
